@@ -31645,7 +31645,7 @@ onku ~廦
 onlf 废黜
 onmd 断崖
 onnf 断层
-onnk 断壁 ~焗
+onnk 焗
 onnt ~慶
 onof 炒买炒卖
 onon 断断
